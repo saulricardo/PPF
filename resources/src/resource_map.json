@@ -1,0 +1,15 @@
+{
+    "friendlyVersion": "dev_0.0",
+    "versionDefName": "APP_RESOURCES",
+
+    "media": [
+
+	{
+        "type": "png",
+        "defName": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+	}
+
+    ]
+}
+
